@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Vanshaj. 👋
 
-<!--
-**VanshajGupta696/VanshajGupta696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in the United States of America, and I'm passionate about writing code and crafting digital experiences.
 
-Here are some ideas to get you started:
+- Check out my [website](https://vanshajgupta.netlify.app/) to learn more about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Toolbox
+
+**Backend Development:** `Python` `Java` `C/C++` `Data Structures and Algorithms`
+
+**Web Development:** `React` `JavaScript` `HTML` `CSS`
+
+**Data Processing and Analytics:** `SQL` `PostgreSQL` `Spark` `Hadoop`
+
+**Version Control:** `Git` `GitLab`
+
+**Tools/Services:** `AWS S3` `MySQL` `Docker` `Jenkins` `Jira`
+
+## 📬 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vanshaj696/).
+
