@@ -2,7 +2,7 @@
 
 I'm a software developer based in the United States of America, and I'm passionate about writing code and crafting digital experiences.
 
-- Check out my [website](https://vanshajgupta.netlify.app/) to learn more about me.
+- Check out my [website](https://vanshajgupta.vercel.app/) to learn more about me.
 
 ## 🧰 Toolbox
 
