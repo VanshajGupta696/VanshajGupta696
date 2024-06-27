@@ -6,15 +6,15 @@ I'm a software developer based in the United States of America, and I'm passiona
 
 ## 🧰 Toolbox
 
-**Backend Development:** `Python` `Java` `C/C++` `Data Structures and Algorithms`
+**Backend Development:** `Python` `Java` `JavaScript` `Node.js` `Data Structures and Algorithms` 
 
-**Web Development:** `React` `JavaScript` `HTML` `CSS`
+**Web Development:** `React` `JavaScript` `HTML` `CSS` `Tailwind`
 
-**Data Processing and Analytics:** `SQL` `PostgreSQL` `Spark` `Hadoop`
+**Data Processing and Analytics:** `SQL` `PostgreSQL` `MongoDB` `Spark` `Hadoop`
 
 **Version Control:** `Git` `GitLab`
 
-**Tools/Services:** `AWS S3` `MySQL` `Docker` `Jenkins` `Jira`
+**Tools/Services:** `AWS S3` `MySQL` `Docker` `Jenkins` `Jira` `Maven` `Microservices` `REST APIs`
 
 ## 📬 Contact
 
